@@ -5,7 +5,7 @@
 <h3 align="center"> FullStack Wev Dev | Code Create Collaborate ✨</h3>
 
 <p align="center">
-  <img src="path/to/your/image_name.jpg" height="300" width="500">
+  <img src="backiee-296529-landscape.jpg" height="300" width="550">
 </p>
 
 ---
