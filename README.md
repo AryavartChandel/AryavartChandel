@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Aryavart😄;" alt="Typing SVG" />
 </h1>
-<h3 align="center"> FullStack Wev Dev | Code Create Collaborate ✨</h3>
+<h3 align="center"> FullStack Web Dev | Code Create Collaborate ✨</h3>
 
 <p align="center">
   <img src="backiee-296529-landscape.jpg" height="300" width="550">
