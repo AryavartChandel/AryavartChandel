@@ -12,7 +12,7 @@
 
 ### 🔍 <span style="color:#FFA500;">About Me</span>
 
-💡 A guy diving into code, creativity, and caffeine.
+💡 A guy diving into Code, Creativity, and caffeine.
 
 -  Learning: **React**, **Node.js**, **Java**
 -  Building: Web Interfaces + Machine Learning Projects
